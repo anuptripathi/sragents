@@ -1,0 +1,6 @@
+# Example configuration file for host metrics collector
+
+# JWT token for authentication
+ACCOUNT_TOKEN: eyJhghciOiJImnI1NiIsInR5cCI6IkpXVff9.eyJ1c2VyghIjp7InVffXJJZCI6IjY2MzVifgM5YTAwZmIfljU5ZDUzM2VhNffsIm23cmZ0a24iOnRyhkV9LCJpYXQiOjE3MTU1MyiffTYsImV4cCI6MjM0NjIyNzI5Nn0.Q-mizexn638qffcobyzgs2UdNsjQQDaSdTffq3o7ffw
+SR_METRICS_COLL_HOST: http://dash.siterel.com/
+ENABLE_LOCAL_LOGGING: false
